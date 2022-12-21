@@ -23,7 +23,58 @@ OBJETIVOS ESPECÍFICOS:
 
 ### 2. MARCO TEÓRICO:
 
+
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
+#### ---------------------------- CAPÍTULO 9 ---------------------------------------
+
+##### SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
+
+1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
+
+![image](https://user-images.githubusercontent.com/117767335/209017553-c133c387-1821-4fca-ac1c-5f2d912100f4.png)
+
+3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+
+![image](https://user-images.githubusercontent.com/117767335/209018509-2543f90c-b17b-47f3-be60-44e1de208ade.png)
+
+![image](https://user-images.githubusercontent.com/117767335/209019895-2c133847-735a-4028-87aa-541e209236c5.png)
+
+5. Evalúe cada uno de los determinantes:
+
+![image](https://user-images.githubusercontent.com/117767335/209020623-adc27cd8-0b03-40d9-ac9d-4141d4cb67f5.png)
+
+![image](https://user-images.githubusercontent.com/117767335/209022891-30430206-cb21-4051-9081-0fa87811fc25.png)
+
+7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
+
+![image](https://user-images.githubusercontent.com/117767335/209022951-db7af7f7-fb91-4ce2-afb8-9a323860f9bd.png)
+
+Determinante Característico:
+
+![image](https://user-images.githubusercontent.com/117767335/209023043-56af3a8d-4022-4d32-9939-6dbdfbeca8f1.png)
+
+Encontrando el valor de I1:
+
+![image](https://user-images.githubusercontent.com/117767335/209023104-637bbaa7-0adb-4996-8faa-2ad6eebddc30.png)
+
+Encontrando el valor de I2:
+
+![image](https://user-images.githubusercontent.com/117767335/209023242-11880087-cb81-4a94-bc8c-841b08e5d7eb.png)
+
+Encontrando el valor de I3:
+
+![image](https://user-images.githubusercontent.com/117767335/209023264-df2e0ebb-0be3-4cd1-8e9b-f6e52d45ddc9.png)
+
+9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/117767335/209023724-f9826316-07ea-492a-b216-e165ea87d3a7.png)
+
+##### SECCIÓN 9–2 Método de la corriente en ramas
+
+11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A
+en la figura 9-26
+
 
 ### 4. VIDEO:
 
