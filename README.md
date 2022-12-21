@@ -60,7 +60,7 @@ Encontrando el valor de I1:
 
 Encontrando el valor de I2:
 
-![image](https://user-images.githubusercontent.com/117767335/209023242-11880087-cb81-4a94-bc8c-841b08e5d7eb.png)
+![image](https://user-images.githubusercontent.com/117767335/209023921-3602c12f-284c-4780-909f-da390c26bd95.png)
 
 Encontrando el valor de I3:
 
@@ -70,10 +70,35 @@ Encontrando el valor de I3:
 
 ![image](https://user-images.githubusercontent.com/117767335/209023724-f9826316-07ea-492a-b216-e165ea87d3a7.png)
 
+I1 = 13/35 = 0.371A = 371mA
+
+I2 = -1/7 = 0,143A = 143mA
+
 ##### SECCIÓN 9–2 Método de la corriente en ramas
 
 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A
 en la figura 9-26
+
+![image](https://user-images.githubusercontent.com/117767335/209024010-f42eed9c-4264-4a30-86f7-c54e20bbf124.png)
+
+I1 - I2 - I3 = 0
+
+13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique
+la polaridad real.
+
+![image](https://user-images.githubusercontent.com/117767335/209024010-f42eed9c-4264-4a30-86f7-c54e20bbf124.png)
+
+Ecuación:
+
+R1I1 + R2I2 - Vs1 = 0
+R2I2 + R3I3 - Vs2 = 0
+I1 - I2 + I3 = 0
+
+Reemplazamos:
+
+8.2I1 + 10I2 = 12
+10I2 + 5.6I3 = 6
+I1 - I2 + I3 = 0
 
 
 ### 4. VIDEO:
