@@ -21,7 +21,17 @@ OBJETIVOS ESPECÍFICOS:
 
 ### 2. MARCO TEÓRICO:
 
+![2](https://user-images.githubusercontent.com/117767335/209208092-51b013ea-31d9-4650-a8a2-e0e94ac989dc.png)
 
+![3](https://user-images.githubusercontent.com/117767335/209208094-251a784d-d003-4706-8ee2-f8d3ea33fbda.png)
+
+![4](https://user-images.githubusercontent.com/117767335/209208095-87662b90-b5fc-4d39-9740-a8af1211e224.png)
+
+![5](https://user-images.githubusercontent.com/117767335/209208097-cbcc4eb3-c067-4fe7-b2e9-7f0e7dfd15b4.png)
+
+![6](https://user-images.githubusercontent.com/117767335/209208098-95f6b3c4-21aa-4494-b22e-76f356113fee.png)
+
+![7](https://user-images.githubusercontent.com/117767335/209208099-b32a7ff4-804c-41af-ba84-be197144b3b8.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 #### ---------------------------- CAPÍTULO 9 ---------------------------------------
