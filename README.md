@@ -17,8 +17,6 @@ OBJETIVOS ESPECÍFICOS:
 
 • Determinar la corriente dentro de un circuito aplicando métodos como el de la corriente en ramas, análisis de lazos y análisis de nodos.
 
-• Identificar de forma adecuada la ecuación que se vaya a implementar para la resolución de ejercicios de Thevenin y Norton.
-
 • Aplicar correctamente los métodos y resolver a detalle los ejercicios para comprender mejor los temas.
 
 ### 2. MARCO TEÓRICO:
