@@ -446,6 +446,148 @@ VC/(2 000 Ω)-VC/(6 000 Ω)+VC/(20 000 Ω)=(-VB)/(6 000 Ω)+(-5,25 V)/(20 000 Ω
 
 (17 00)/(6 Ω) VC-VB/(12 000 Ω)=+5,25 V/(20 000 Ω)
 
+![image](https://user-images.githubusercontent.com/117767335/209041508-904bee20-7f4b-468d-a20e-3bde23b7eca7.png)
+
+*VA = 4,35 V
+
+*VB = 0,000006754 V
+
+*VC = 0,000000926 V
+
+Nodo A:
+
+*I1= (20-4.35V)/10000=0.001565 A
+
+*I2= (5,25V+4,35V)/8000= 0,0012A
+
+*I3= (4.35V-0.000006754V)/12000=0.001565A
+
+Nodo B 
+
+*I1=0.000006754V/4000=0.000000002 A
+
+*I2= I3 del nodo A
+
+*I3=(0.00000096V+5.25V)/20000=0.0002625A
+
+Nodo C:
+
+*I1=0.00000096V/2000=0.00000034A
+
+*I2=(0.00000096V-0.000006754)/(6 000 Ω)=-0.00000001 A
+
+*I3=(5,25V-0,00000096V)/(20 000 Ω)=0,0002625 A
+
+### --------------------------CAPÍTULO 10--------------------------------
+
+##### SECCIÓN 10–1 El campo magnético
+
+1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad
+de flujo aumenta o disminuye?
+
+La densidad del flujo disminuye debido a que es inversamente proporcional.
+
+3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500x10^-6 T y el área
+de sección transversal mide 150 cm²?
+
+B=Φ/A, donde:
+
+Φ = flujo
+
+A = área transversal
+
+Despejamos:
+
+Φ=B*A
+
+Transformamos el área en metros:
+
+150 cm^2 = 0,15 m^2
+
+Φ=2500 * 10^6 T * 0,15 m^2
+
+*Φ=375*10^6 Wb
+
+5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 µT. Exprese esta densidad de
+flujo en gauss.
+
+![image](https://user-images.githubusercontent.com/117767335/209043217-485ba8ee-c616-4163-b350-0f13f9d1f215.png)
+
+##### SECCIÓN 10–2 Electromagnetismo
+
+7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
+750x10^-6Wb/At·m?
+
+![image](https://user-images.githubusercontent.com/117767335/209045141-daa00d93-2bb4-47e9-aa14-0a888c33296e.png)
+
+9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a
+través de él?
+
+![image](https://user-images.githubusercontent.com/117767335/209046012-2c4c584b-b4b9-4ad0-8e70-6c2e2973d42f.png)
+
+##### SECCIÓN 10–3 Dispositivos electromagnéticos
+
+11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+
+El embolo es una pieza de una bomba o del cilindro de un motor que se mueve hacia arriba o hacia abajo impulsando un fluido o bien recibiendo el impulso de él. Al activar un solenoide que es para una bobina de alambre utilizada como un electroimán. La fuerza que hace mover el embolo es la fuerza del campo electromagnético.
+
+(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+
+Como el émbolo se mueve hacia arriba o hacia abajo la fuerza que hace que ingrese a su posición de reposo es la fuerza del resorte.
+
+13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
+
+![image](https://user-images.githubusercontent.com/117767335/209046415-d112d05a-761f-4752-abbe-236e68fc314a.png)
+
+Fuerzas producidas por la interaccion del campo electromagnético y el campo magnético permanente.
+
+##### SECCIÓN 10–4 Histéresis magnética
+
+15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del
+núcleo?
+
+![image](https://user-images.githubusercontent.com/117767335/209046552-e57a828f-a381-447f-86b5-95f2fbf5a232.png)
+
+Cambiando la corriente.
+
+17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+
+![image](https://user-images.githubusercontent.com/117767335/209046604-61cf25de-24fa-462c-bd65-f4b522b68bef.png)
+
+La retentividad de un material representa el flujo máximo que puede ser retenido después de que el material ha sido magnetizado hasta la saturación 
+y se indica mediante la relación de Br a Bsat. De este modo en la imagen el material que tiene más retentividad es el Materia A.
+
+##### SECCIÓN 10–5 Inducción electromagnética
+
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular
+al campo magnético?
+
+- La intensidad del campo magnético
+
+- La longitud del conductor expuesto al campo
+
+- La velocidad de rotacion del conductor
+
+21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo 
+magnético y al número de vueltas que haya en la bobina. La ley de Lenz hace referencia a la dirección fluye la corriente, y establece que la dirección siempre es 
+tal que se opone al cambio de flujo que la produce. De este modo la ley de Lenz complementa a la ley de Faraday definiendo la polaridad del voltaje inducido.
+
+##### SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
+
+23. Explique el propósito del conmutador y de las escobillas en la figura 10-35.
+
+![image](https://user-images.githubusercontent.com/117767335/209047174-094e6097-35e8-4994-a8c4-91ba025930ac.png)
+
+El conjunto de conmutador y escobillas conecta electricamente la espira al circuito externo. Puesto que el conmutador proporciona una conexión eléctrica entre las 
+escobillas presentes y la escobilla se trata de elementos cuya finalidad es realizar la presión necesaria.
+
+25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo 
+aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
+
+![image](https://user-images.githubusercontent.com/117767335/209048012-f454eb12-9aa0-47da-8676-526d67849dd8.png)
+
 ### 4. VIDEO:
 
 
